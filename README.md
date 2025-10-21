@@ -3,7 +3,7 @@
 A modern, responsive food delivery platform built with React, TypeScript, and Tailwind CSS. MealMate connects you with delicious food from your favorite local restaurants with an intuitive, mobile-first design.
 
 ## 🌟 **Live Demo**
-[🔗 View Live Demo](https://mealmate-food-delivery.vercel.app/) | [📱 Mobile Preview](your-mobile-demo-url)
+[🔗 View Live Demo](https://mealmate-food-delivery.vercel.app) | [📱 Mobile Preview](https://mealmate-food-delivery.vercel.app)
 
 ## 📸 **Screenshots**
 ![MealMate Homepage](./screenshots/homepage.png)
