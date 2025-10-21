@@ -6,7 +6,7 @@ A modern, responsive food delivery platform built with React, TypeScript, and Ta
 [🔗 View Live Demo](https://mealmate-food-delivery.vercel.app) | [📱 Mobile Preview](https://mealmate-food-delivery.vercel.app)
 
 ## 📸 **Screenshot**
-![MealMate Mockup](./Images/All20%Devices.png)
+![MealMate Mockup](Images/All20%Devices.png)
 
 ## 📁 Project Structure
 
